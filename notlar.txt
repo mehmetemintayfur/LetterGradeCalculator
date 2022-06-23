@@ -1,0 +1,7 @@
+Mehmet Emin Tayfur,80,85
+Samil Yusa Demir,70,80
+Yagizcan Sahin,50,65
+Metehan Tufan,60,80
+Cengizhan Kose,55,75
+Omer Faruk Yardimci,65,55
+Mehmet Emin Tayfur-> AASamil Yusa Demir-> BAYagizcan Sahin-> DCMetehan Tufan-> BBCengizhan Kose-> CBOmer Faruk Yardimci-> DC
